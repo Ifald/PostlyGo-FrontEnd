@@ -1,26 +1,29 @@
 # PostlyGO-FrontEnd
 
-- Sign Up Page
+Этот проект представляет собой **Next.js** приложение с аутентификацией пользователей.  
+Используется **Tailwind CSS** для стилизации и адаптивного дизайна.
 
-This project is a **Next.js** application featuring a "Sign Up" page styled with **Tailwind CSS**. It serves as the starting point for an Instagram-like web application.
+## **Функции проекта**
 
-## Features
-
-- **Next.js**: Server-side rendering and optimized build.
-- **Tailwind CSS**: Modern utility-first styling.
-- **Responsive Design**: Fully responsive "Sign Up" page.
-- **Linting and Formatting**: Configured with **ESLint** and **Prettier**.
-- **Component-Based Architecture**: Clean and modular code structure.
+- **Next.js**: Серверный рендеринг и оптимизированная сборка.
+- **Tailwind CSS**: Гибкие и удобные стили.
+- **Страницы аутентификации**:
+  - **Sign Up** (Регистрация)
+  - **Log In** (Вход)
+  - **Reset Password** (Восстановление пароля)
+- **ESLint и Prettier**: Настроены для чистого и читаемого кода.
+- **Компонентный подход**: Используется модульная структура компонентов.
 
 ---
 
-## Getting Started
+## **Запуск проекта**
 
-start.bat
+Проект можно запустить с помощью файла **`start.bat`** или вручную.
 
-### Prerequisites
+### **1. Установка зависимостей**
 
-Ensure you have the following tools installed:
+Перед запуском убедитесь, что установлены все необходимые зависимости:
 
-- **Node.js** (v18+ recommended)
-- **npm** (or **yarn**)
+```bash
+npm install
+```
