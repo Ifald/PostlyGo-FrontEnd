@@ -1,0 +1,8 @@
+/* styles/header.css */
+header {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+header a {
+  text-decoration: none;
+}
